@@ -247,6 +247,7 @@
 
   * [pronto](https://github.com/AppsFlyer/pronto)
   * [lein-protodeps](https://github.com/AppsFlyer/lein-protodeps)
+  * [protojure](https://github.com/metosin/protojure)
 
 ## Database Cli
 
